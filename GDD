@@ -22,18 +22,18 @@
 #### Objective
 [explain the goal of the game]
 
-// The player have to collect the tacos and ice cream and
-has to escape the bomb 
+// The player have to escape from bullets which is shooting 
+by object 
 
 #### Gameplay Mechanics
 [detail the game mechanics, do not include anything about theme/artwork]
 
-// The game is a Single Player, real time game and it is not a social game
+// The game is a Single Player Game, real time and it is not a social game
 
 #### Level Design
 [describe what a typical level or puzzle would look like]
 
-// There is not a level in game 
+// There is a level in the game and it is going to be harder
 
 [Back to top ^](#)
 
@@ -44,11 +44,13 @@ has to escape the bomb
 #### Scenes
 * [list the different scenes/screens used in the game]
 
+// When the player pass the level always there is a different scene 
+for example (lava , sea , rock )
+
 #### Controls/Input
 [describe the control scheme used in the game]
 
-// This game is playing with touch and the game player
-is holding the player right and left 
+------not decided
 
 #### Classes/SKS
 * Classes
@@ -57,15 +59,13 @@ is holding the player right and left
   * [list SKS files you will need to create]
   main menu sks 
   gameover sks
-
+  gamescene sks
 [Back to top ^](#)
 
 ---
 
 ### MVP Milestones
 [The overall milestones of first playable build, core gameplay, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
-
-// The highscor3 thing i want to improve and add to my game 
 
 #### Week 1
 _planing your game_
@@ -85,16 +85,14 @@ _finishing a playable build_
 _starting the polish_
 * [goals for the week]
 
-// Finish my games basic 
-and set the sks scenes 
-maybe im going to finish
-my characters movement
+// Set the all scenes 
+give the player movement 
+make the tutorial
 
 #### Week 6
 _submitting to the App Store_
 * [goals for the week, should be finishing the polish -- demo day on Saturday!]
 
-// Finish my game and make a tutorials for the game and make, prepare
-a presentation for the dem0 day
+// Finish my game and finish the levels 
 
 [Back to top ^](#)
