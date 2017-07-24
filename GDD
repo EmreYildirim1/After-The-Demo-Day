@@ -22,8 +22,8 @@
 #### Objective
 [explain the goal of the game]
 
-// The player have to escape from bullets which is shooting 
-by object 
+// The player have to fight with enemies and killed all
+of them
 
 #### Gameplay Mechanics
 [detail the game mechanics, do not include anything about theme/artwork]
@@ -33,7 +33,7 @@ by object
 #### Level Design
 [describe what a typical level or puzzle would look like]
 
-// There is a level in the game and it is going to be harder
+// This game is not a level based game 
 
 [Back to top ^](#)
 
@@ -44,13 +44,14 @@ by object
 #### Scenes
 * [list the different scenes/screens used in the game]
 
-// When the player pass the level always there is a different scene 
-for example (lava , sea , rock )
+// GameOver Scene
+Main menu scene 
+GameScene 
 
 #### Controls/Input
 [describe the control scheme used in the game]
 
-------not decided
+// TOUCH
 
 #### Classes/SKS
 * Classes
@@ -81,13 +82,16 @@ _finishing a playable build_
 #### Week 4
 * [goals for the week, should be finishing all core gameplay]
 
+// The player has a movement and animation 
+GameScene , Main Menu and Game Over all finished 
+make the tutorial
+
 #### Week 5
 _starting the polish_
 * [goals for the week]
 
-// Set the all scenes 
-give the player movement 
-make the tutorial
+// Set the enemies and make a shop of the game
+and the game is playable 
 
 #### Week 6
 _submitting to the App Store_
