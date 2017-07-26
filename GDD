@@ -23,7 +23,8 @@
 [explain the goal of the game]
 
 // The player have to fight with enemies and killed all
-of them
+of them with his shuriken and collect points , jump and slide over
+buildings
 
 #### Gameplay Mechanics
 [detail the game mechanics, do not include anything about theme/artwork]
@@ -33,7 +34,7 @@ of them
 #### Level Design
 [describe what a typical level or puzzle would look like]
 
-// This game is not a level based game 
+// This game is not a level based game its like flappy bird
 
 [Back to top ^](#)
 
@@ -51,11 +52,16 @@ GameScene
 #### Controls/Input
 [describe the control scheme used in the game]
 
-// TOUCH
+// Swipe 
 
 #### Classes/SKS
 * Classes
   * [list classes needed and some basic information about required implementation]
+  
+  // MainMenu.swift 
+  GameOver.swift
+  GameScene.swift
+  
 * SKS
   * [list SKS files you will need to create]
   main menu sks 
@@ -72,19 +78,24 @@ GameScene
 _planing your game_
 * [goals for the week]
 
+// Finish the games gamescene.swift
+add the buildings at the gamescene
+and make the main menu and spawn the enemies
+
 #### Week 2
 _finishing a playable build_
 * [goals for the week, should be finishing a playable game]
 
+// add kill the enemy func and move the player easily
+and finish the all game
+
 #### Week 3
 * [goals for the week]
 
-#### Week 4
-* [goals for the week, should be finishing all core gameplay]
+// Create the new game
 
-// The player has a movement and animation 
-GameScene , Main Menu and Game Over all finished 
-make the tutorial
+#### Week 4
+* [goals for the week, should be finishing all core gameplay] 
 
 #### Week 5
 _starting the polish_
